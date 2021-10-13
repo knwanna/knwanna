@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knwanna
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning web design, js
+- 🌱 I’m currently learning web design, js, C++, Python 
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me at 
 
